@@ -31,7 +31,7 @@ Let us develop a modular system that provides a consistent, intuitive, stable an
 
 Around the core API further services a like full text search system, a matching or a recommender system could evolve that enrich the capabilities. The following diagram sketches the envisioned system:
 
-![](https://github.com/normalerweise/refugee-api/doc/system_design.png)  
+![](https://raw.githubusercontent.com/normalerweise/refugee-api/master/doc/system_design.png)  
 
 ———————————————————————————
 Work in progress………
