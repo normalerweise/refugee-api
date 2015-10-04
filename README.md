@@ -29,7 +29,7 @@ More Projects: Having a stronger database could enable new projects with complet
 
 Let us develop a modular system that provides a consistent, intuitive, stable and reliable API to access data related to refugee aid. The system should contain frequently changing data like available supplies as well as static data like a knowledge base for frequently required information.  
 
-Around the core API further services a like full text search system, a matching or a recommender system could evolve that enrich the capabilities. The following diagram sketches the envisioned system:
+Around the core API further services like a full text search system, a matching or a recommender system could evolve that enrich the capabilities. The following diagram sketches the envisioned system:
 
 ![](https://raw.githubusercontent.com/normalerweise/refugee-api/master/doc/system_design.png)  
 
